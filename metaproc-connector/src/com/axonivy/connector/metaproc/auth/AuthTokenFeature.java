@@ -3,12 +3,12 @@ package com.axonivy.connector.metaproc.auth;
 import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
-import javax.ws.rs.client.ClientRequestContext;
-import javax.ws.rs.client.ClientRequestFilter;
-import javax.ws.rs.client.Entity;
-import javax.ws.rs.core.Feature;
-import javax.ws.rs.core.FeatureContext;
-import javax.ws.rs.core.MediaType;
+import jakarta.ws.rs.client.ClientRequestContext;
+import jakarta.ws.rs.client.ClientRequestFilter;
+import jakarta.ws.rs.client.Entity;
+import jakarta.ws.rs.core.Feature;
+import jakarta.ws.rs.core.FeatureContext;
+import jakarta.ws.rs.core.MediaType;
 
 import com.axonivy.connector.metaproc.login.LoginData;
 import com.axonivy.connector.metaproc.login.LoginUser;
