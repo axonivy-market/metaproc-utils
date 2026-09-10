@@ -2,7 +2,7 @@ package com.axonivy.connector.metaproc.poll;
 
 import java.time.Duration;
 
-import javax.ws.rs.core.MediaType;
+import jakarta.ws.rs.core.MediaType;
 
 import com.fasterxml.jackson.databind.node.ObjectNode;
 
